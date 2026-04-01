@@ -1,35 +1,34 @@
 # Hi, I'm Jungla 👋
 
-**Building efficient solutions through code & creative strategy.**
+**Software Developer | Systems & Web Integration**
 
-I focus on scalable frontend architecture, data manipulation, and crafting seamless integrations between platforms like Shopify and WordPress. I believe that great software is the result of empathy and technical discipline.
+I focus on building robust system-level tools and efficient web architectures. My work ranges from low-level C implementations to modern PHP-based web solutions.
 
 ---
 
 ## 🚀 Projects & Open Source
 
-Here are some of the key areas I focus on:
+Here are some of the key projects I’ve been working on:
 
-* **🔍 Jungla Core**
-    A specialized data manipulation language and logic engine designed to simplify complex JSON transformations and pre-processing tasks.
-    *Tech: JavaScript / Logic Engines*
+* **🛠️ [Jungla](https://github.com/jungla/jungla)** A core C-based project focused on system performance and utility. This is the foundation of my explorations into low-level programming and memory management.
+  *Tech: C / Makefile*
 
-* **🛍️ WP-Shopify Bridge**
-    Expert integration of Shopify's commerce engine into WordPress environments, enabling high-performance custom storefronts.
-    *Tech: PHP / Shopify API / WordPress*
+* **🧩 [PHP-Jungla](https://github.com/jungla/php-jungla)** A specialized extension or bridge for PHP, designed to bring high-performance logic to the web development stack.
+  *Tech: PHP / C*
 
-* **🌍 Globe Visualization**
-    Interactive 3D data visualization components for representing global datasets using ThreeJS and WebGL for high-performance rendering.
-    *Tech: JavaScript / ThreeJS / WebGL*
+* **⚡ [Sieve](https://github.com/jungla/sieve)** An implementation of the Sieve of Eratosthenes, focusing on algorithmic efficiency and prime number generation at scale.
+  *Tech: C*
 
-* **⚡ Modern Web Templates**
-    Curated starters for Gatsby and Next.js, focusing on SEO, performance, and developer experience.
-    *Tech: React / Gatsby / TypeScript*
+* **📦 [PHP-Package-Skeleton](https://github.com/jungla/php-package-skeleton)** A standardized boilerplate for developing PHP packages, emphasizing clean code structure, PSR compliance, and automated testing.
+  *Tech: PHP / Composer*
 
 ---
 
-## 💡 Philosophy
-Beyond just writing code, I focus on the "why"—ensuring that every feature serves a core user need and business goal. I enjoy refining workflows and automating repetitive tasks to increase productivity and deployment speed.
+## 💡 Professional Focus
+
+* **Systems Programming:** I enjoy working with C to understand the "how" behind the software, focusing on performance and efficiency.
+* **Modern PHP Development:** Building scalable backend systems with a focus on maintainability and modular architecture.
+* **Clean Code:** I advocate for using skeletons and templates to maintain high standards across projects.
 
 ---
 
@@ -37,18 +36,18 @@ Beyond just writing code, I focus on the "why"—ensuring that every feature ser
 
 When I'm not pushing code, I spend my time exploring:
 
-* **🏔️ Adventure:** I find clarity in travel, hiking, and exploring new cities.
-* **📚 Lifelong Learning:** Currently diving into history, behavioral psychology, and emerging tech frameworks.
-* **☕ Coffee Culture:** The quest for the perfect espresso roast is a hobby in itself.
+* **🏔️ Adventure:** I find clarity in travel, hiking, and exploring new environments.
+* **📚 Lifelong Learning:** Diving deep into computer science fundamentals and emerging backend technologies.
+* **☕ Coffee Culture:** Fueling the dev process with the perfect roast.
 
 ---
 
 ## 📬 Let's Connect
 
-Feel free to reach out for collaborations or just to talk shop!
+Feel free to reach out for collaborations or to discuss systems architecture.
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/your-profile-url)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/jungla)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@example.com)
 
 ---
-*Built with ❤️ by [Jungla]*
+*Built with precision by [Jungla]*
