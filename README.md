@@ -13,7 +13,7 @@ I am a marine scientist with over 10 years of experience spanning three continen
 
 | Overall Stats | Language Distribution |
 | :--- | :--- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jungla&show_icons=true&theme=nord) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=nord) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jungla&show_icons=true&theme=nord) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungla&layout=compact&theme=nord) |
 
 ### 📈 Contribution History
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jungla&theme=nord)
