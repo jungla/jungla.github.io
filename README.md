@@ -5,7 +5,7 @@
 ---
 
 ### 📋 Professional Summary
-I am a marine scientist with over 10 years of experience spanning three continents. I currently lead one of Tanzania's largest marine conservation programs, managing a team of 40+ staff and an annual budget exceeding $1M. My expertise bridges high-level physical oceanography with practical, community-led conservation strategies.
+I am a marine scientist with over 10 years of experience spanning three continents. I currently lead one of Tanzania's largest marine conservation programs, managing a team of 40+ staff and an annual budget exceeding $10M. My expertise bridges high-level physical oceanography with practical, community-led conservation strategies.
 
 ---
 
@@ -13,10 +13,10 @@ I am a marine scientist with over 10 years of experience spanning three continen
 
 | Overall Stats | Language Distribution |
 | :--- | :--- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=nord) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=nord) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jungla&show_icons=true&theme=nord) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=nord) |
 
 ### 📈 Contribution History
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=nord)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jungla&theme=nord)
 
 ---
 
